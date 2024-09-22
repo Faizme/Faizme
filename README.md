@@ -1,4 +1,6 @@
-Hi Everyone I am Mohammed Faiz
-I am pursuing Bachelors in Computer Science(Computer Application) from Yenepoya University, Bengaluru
-I am interested in doing internship
-to reach me - ph no: 8590458523, email id: mohammedfaiz506@gmail.com
+👋 Hi, I’m Faiz!
+🔭 I’m a college student with a passion for software development and data science.
+🌱 I’m skilled in Python, Java, C, and web technologies (HTML, CSS, JavaScript).
+📚 I’ve completed various courses, including data science and software development.
+📈 Check out my projects, including a Tic Tac Toe game and stock data analysis dashboard!
+🔗 [https://www.linkedin.com/in/mohammed-faiz-me/]
