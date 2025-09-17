@@ -5,4 +5,4 @@
 🛠️ Projects include AI-powered applications, IoT-based systems, and full-stack web apps using Flask, Django, and Streamlit.
 🏆 Recognized for leadership and innovation through award-winning projects.
 🚀 Open to internship & entry-level opportunities to apply my skills and contribute to impactful solutions.
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohammed-faiz-me/)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/mohammed-faiz-me/)
